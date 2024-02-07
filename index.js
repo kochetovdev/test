@@ -24,6 +24,6 @@ function removeDuplicateNum(arr) {
   return arr
 }
 
-// console.log(removeDuplicateNum('race car'));
-// console.log(removeDuplicateNum('asasfaaa'));
+// console.log(removeDuplicateNum('race car'));a
+// console.log(removeDuplicateNum('asasfaaas'));
 console.log(removeDuplicateNum([1, 2, 3, 4, 5]));
